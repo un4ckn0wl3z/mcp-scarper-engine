@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mcp-scarper-engine": {
+      "command": "C:\\Users\\User\\AppData\\Roaming\\Python\\Python312\\Scripts\\uv",
+      "args": [
+        "--directory",
+        "D:\\Projects\\MCP\\mcp-scarper-engine",
+        "run",
+        "mcp-server.py"
+      ]
+    }
+  }
+}
