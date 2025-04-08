@@ -1,5 +1,5 @@
-# mcp-scarper-engine
-Basic MCP Server for Web Scarping
+# mcp-scraper-engine
+Basic MCP Server for Web Scraping
 
 ## Demo
 ![page1](assets/page1.png)
